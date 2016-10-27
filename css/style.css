@@ -1,0 +1,50 @@
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+}
+
+.black {
+background-color: black;
+color: white;
+height: 60px;
+padding-left: 100px;
+}
+
+.hero-parent {
+  height: 300px;
+  background-color: teal;
+  color: white;
+text-align: center;
+line-height: 300px;
+}
+
+.teal {
+  display: inline-block;
+   vertical-align: middle;
+   line-height: normal;
+   padding-left: 10%;
+   padding-right: 10%;
+}
+
+.whatwedo {
+  text-align: center;
+}
+
+.paragraph {
+  color: black;
+  text-align: center;
+}
+
+.box {
+  background-color: gray;
+  height: 200px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.footer {
+  color: white;
+  display: inline;
+  background-color: black;
+  margin-top: 10px;
+  text-align: center;
+}
